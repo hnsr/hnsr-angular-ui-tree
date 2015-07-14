@@ -1,0 +1,17 @@
+{
+  "name": "hnsr-angular-ui-tree",
+  "version": "2.6.0",
+  "description": "Wrapper for angular-ui-tree so that it can be used with npm+browserify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Hans Nieser",
+  "license": "ISC",
+  "dependencies": {
+    "angular-ui-tree": "git+https://github.com/angular-ui-tree/angular-ui-tree.git#v2.6.0"
+  }
+}
