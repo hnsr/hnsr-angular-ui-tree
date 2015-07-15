@@ -6,7 +6,7 @@ Thin wrapper around angular-ui-tree so that it can be used with npm+browserify.
 Using it is as simple as installing it with npm and `requiring()` it from your code:
 
 ```bash
-$ npm install --save hnsr/hnsr-angular-ui-tree
+$ npm install --save hnsr-angular-ui-tree
 ```
 
 Then from your code:
