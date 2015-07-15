@@ -3,6 +3,7 @@
   "version": "2.6.0",
   "description": "Wrapper for angular-ui-tree so that it can be used with npm+browserify.",
   "main": "index.js",
+  "repository": "hnsr/hnsr-angular-ui-tree",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
